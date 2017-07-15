@@ -24,9 +24,6 @@ elif "win" in sys.platform:
 else:
     pass
 
-_author_ = "José Pino (Fraph)"
-_version_ = "1.0"
-
 #Colors
 color = {"blue": "\033[34m", "red": "\033[31m", "green": "\033[32m", "white": "\033[97m", "yellow": "\033[33m"}
 
